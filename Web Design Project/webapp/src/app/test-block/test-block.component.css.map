@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "test-block.component.scss"
+    ],
+    "names": [],
+    "file": "test-block.component.css"
+}
